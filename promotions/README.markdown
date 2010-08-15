@@ -1,3 +1,0 @@
-= Promotions
-
-Description goes here
