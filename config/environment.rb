@@ -80,7 +80,9 @@ Spree::Initializer.run do |config|
   #config.i18n.load_path << Dir[File.join(RAILS_ROOT, 'my', 'locales', '*.{rb,yml}')]
   config.i18n.default_locale = :'en'
   
-#   ENV['RAILS_ENV'] ||= '-e production' 
+  RAILS_ENV ||= 'production'
+  # gambi
+  RAILS_ENV = 'production' if RAILS_ENV == 'development'
 end
 
 Time::DATE_FORMATS[:date_time24] = "%Y-%m-%d %H:%M"

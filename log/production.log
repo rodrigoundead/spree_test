@@ -137,3 +137,10 @@ Processing ProductsController#index (for 127.0.0.1 at 2010-08-15 21:35:38) [GET]
 Rendering template within layouts/spree_application
 Rendering products/index
 Completed in 328ms (View: 131, DB: 41) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-15 23:34:53) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/spree_application
+Rendering products/index
+Completed in 586ms (View: 288, DB: 44) | 200 OK [http://localhost/]
