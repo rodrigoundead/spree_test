@@ -34,8 +34,10 @@ net-sftp -v 2.0.0
 net-ssh -v 2.0.1 
 rails -v 2.0.2
 rails -v 2.2.2
+rack -v 1.1.0
 rake -v 0.8.1
 rake -v 0.8.3
+rake -v 0.8.7
 rest-client -v 1.0.3 
 rest-client -v 1.2.0
 rest-client -v 1.4.2
