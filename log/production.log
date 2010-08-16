@@ -123,3 +123,17 @@ Processing OrdersController#edit (for 127.0.0.1 at 2010-08-15 18:48:35) [GET]
 Rendering template within layouts/spree_application
 Rendering orders/edit
 Completed in 59ms (View: 28, DB: 8) | 200 OK [http://localhost/orders/R208227567/edit]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-15 21:34:19) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/spree_application
+Rendering products/index
+Completed in 389ms (View: 158, DB: 475) | 200 OK [http://localhost/]
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-15 21:35:38) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+Rendering template within layouts/spree_application
+Rendering products/index
+Completed in 328ms (View: 131, DB: 41) | 200 OK [http://localhost/]

@@ -1,0 +1,237 @@
+# Logfile created on Sun Aug 15 21:27:46 -0300 2010INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/theme_default/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Loading mail preferences
+  [4;36;1mSQL (0.6ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+=========================================================================
+ERROR: Something went wrong while loading mail preferences
+       Verify you created a default configuration in admin/configurations
+=========================================================================
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+INFO: Loading initializer /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/initializers/session_store.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/api/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/routes.rb
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/theme_default/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Loading mail preferences
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+=========================================================================
+ERROR: Something went wrong while loading mail preferences
+       Verify you created a default configuration in admin/configurations
+=========================================================================
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+INFO: Loading initializer /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/initializers/session_store.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/api/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/routes.rb
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing ProductsController#index (for 127.0.0.1 at 2010-08-15 21:32:46) [GET]
+  Parameters: {"action"=>"index", "controller"=>"products"}
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+ActiveRecord::StatementInvalid (Could not find table 'product_groups'):
+  spree (0.11.0) lib/spree/search.rb:25:in `new'
+  spree (0.11.0) lib/spree/search.rb:25:in `retrieve_products'
+  spree (0.11.0) app/controllers/products_controller.rb:31:in `collection'
+
+Rendered rescues/_trace (39.3ms)
+Rendered rescues/_request_and_response (1.9ms)
+Rendering rescues/layout (internal_server_error)
+  [4;35;1mSQL (1.3ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/theme_default/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Loading mail preferences
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+=========================================================================
+ERROR: Something went wrong while loading mail preferences
+       Verify you created a default configuration in admin/configurations
+=========================================================================
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+INFO: Loading initializer /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/initializers/session_store.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/api/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/routes.rb
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/theme_default/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Mirroring assets from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/public to /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/public
+INFO: Loading mail preferences
+  [4;36;1mSQL (0.3ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+=========================================================================
+ERROR: Something went wrong while loading mail preferences
+       Verify you created a default configuration in admin/configurations
+=========================================================================
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+INFO: Loading initializer /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/initializers/session_store.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/api/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/overview_dashboard/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/.gem/ruby/1.8/gems/spree-0.11.0/vendor/extensions/payment_gateway/config/routes.rb
+INFO: Loading routes from /Users/rodrigobammann/Projects/sinis/heroku_branches/spree_test/vendor/extensions/site/config/routes.rb
